@@ -1,0 +1,1 @@
+execute at @e[tag=B] run setblock ~ ~ ~ air
