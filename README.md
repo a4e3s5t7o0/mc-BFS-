@@ -1,4 +1,2 @@
-# mc-BFS-
+# mc-BFS(Breadth-First-Search)
 마인크래프트에 새로 추가 된 엔티티인 block display로 구현한 bfs(깊이 우선 탐색 알고리즘)
-기본값은 ice로 되어 있으나, 사용하고 싶은 블럭에 따라 바꾸면 됨.
-주의:start함수 사용 전 반드시 주변 블럭들을 확인 할 것!
